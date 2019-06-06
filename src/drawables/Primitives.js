@@ -1,6 +1,6 @@
-import Utils from 'misc/Utils';
-import MeshStatic from 'mesh/meshStatic/MeshStatic';
-import Remesh from 'editing/Remesh';
+import Utils from '../misc/Utils';
+import MeshStatic from '../mesh/meshStatic/MeshStatic';
+import Remesh from '../editing/Remesh';
 
 var Primitives = {};
 
@@ -148,7 +148,7 @@ var createCylinderArray = function (
   if (lowCap) {
     last = (vAr.length - 3) / 3;
     vAr[last * 3 + 1] = -heightHalf;
-    if (isSingularTop) --i;
+    if (isSingularTop)--i;
     var end = radSegments * i;
     for (j = 0; j < radSegments; j++) {
       k = 4 * id++;

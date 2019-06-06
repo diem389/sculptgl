@@ -1,12 +1,12 @@
-import TR from 'gui/GuiTR';
+import TR from './GuiTR';
 import { saveAs } from 'file-saver';
 import { zip } from 'zip';
-import Export from 'files/Export';
+import Export from '../files/Export';
 
-import Rtt from 'drawables/Rtt';
-import ShaderPaintUV from 'render/shaders/ShaderPaintUV';
-import ShaderBlur from 'render/shaders/ShaderBlur';
-import Enums from 'misc/Enums';
+import Rtt from '../drawables/Rtt';
+import ShaderPaintUV from '../render/shaders/ShaderPaintUV';
+import ShaderBlur from '../render/shaders/ShaderBlur';
+import Enums from '../misc/Enums';
 
 class GuiFiles {
 
@@ -24,7 +24,7 @@ class GuiFiles {
 
     // import
     menu.addTitle(TR('fileImportTitle'));
-    menu.addButton(TR('fileAdd'), this, 'addFile' /*, 'CTRL+O/I'*/ );
+    menu.addButton(TR('fileAdd'), this, 'addFile' /*, 'CTRL+O/I'*/);
     menu.addCheckbox(TR('fileAutoMatrix'), this._main, '_autoMatrix');
     menu.addCheckbox(TR('fileVertexSRGB'), this._main, '_vertexSRGB');
 
@@ -32,7 +32,7 @@ class GuiFiles {
     menu.addTitle(TR('fileExportSceneTitle'));
     menu.addCheckbox(TR('fileExportAll'), this, '_exportAll');
     menu.addButton(TR('fileExportSGL'), this, 'saveFileAsSGL');
-    menu.addButton(TR('fileExportOBJ'), this, 'saveFileAsOBJ' /*, 'CTRL+E'*/ );
+    menu.addButton(TR('fileExportOBJ'), this, 'saveFileAsOBJ' /*, 'CTRL+E'*/);
     menu.addButton(TR('fileExportPLY'), this, 'saveFileAsPLY');
     menu.addButton(TR('fileExportSTL'), this, 'saveFileAsSTL');
     menu.addButton(TR('sketchfabTitle'), this._ctrlGui, 'exportSketchfab');

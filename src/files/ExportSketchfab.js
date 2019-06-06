@@ -1,8 +1,8 @@
-import TR from 'gui/GuiTR';
+import TR from '../gui/GuiTR';
 import { zip } from 'zip';
-import ExportPLY from 'files/ExportPLY';
+import ExportPLY from './ExportPLY';
 
-import SketchfabOAuth2 from 'sketchfab-oauth2-1.2.0';
+import SketchfabOAuth2 from '../../lib/sketchfab-oauth2-1.2.0';
 
 var Export = {};
 
