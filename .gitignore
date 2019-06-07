@@ -14,4 +14,4 @@ node_modules
 tools/*.png
 tools/dist
 .cache/
-/dist/*
+dist/*
