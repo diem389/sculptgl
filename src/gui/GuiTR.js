@@ -1,3 +1,4 @@
+// @flow
 import getOptionsURL from '../misc/getOptionsURL';
 import english from './tr/english';
 import chinese from './tr/chinese';
