@@ -13796,8 +13796,10 @@ switch ((0, _getOptionsURL.default)().language) {
   case 'german':
     GuiTR.select = 'deutsch';
     break;
-}
+} // Always English 2019-6-7 by Jaeyoon
 
+
+GuiTR.select = 'english';
 var _default = GuiTR;
 exports.default = _default;
 },{"../misc/getOptionsURL":"src/misc/getOptionsURL.js","./tr/english":"src/gui/tr/english.js","./tr/chinese":"src/gui/tr/chinese.js","./tr/japanese":"src/gui/tr/japanese.js","./tr/korean":"src/gui/tr/korean.js","./tr/russian":"src/gui/tr/russian.js","./tr/turkish":"src/gui/tr/turkish.js","./tr/swedish":"src/gui/tr/swedish.js","./tr/french":"src/gui/tr/french.js","./tr/german":"src/gui/tr/german.js"}],"src/render/shaders/ShaderMatcap.js":[function(require,module,exports) {
