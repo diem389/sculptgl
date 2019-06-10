@@ -1,0 +1,8 @@
+{
+  "folders": [
+  {
+    "name": "Sources",
+    "path": ".",
+    "folder_exclude_patterns": [".cache", "dist", ".vscode", "node_modules"]
+  }]
+}

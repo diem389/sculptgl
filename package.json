@@ -3,7 +3,7 @@
   "homepage": "https://github.com/stephomi/sculptgl",
   "version": "0.9.0",
   "description": "A WebGL digital sculpting app",
-  "author": "Stéphane GINIER",
+  "author": "Stéphane GINIER, Jaeyoon Jeong",
   "engines": {
     "node": ">=8.9.0"
   },
