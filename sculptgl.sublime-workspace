@@ -1,0 +1,510 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"crate",
+				"createCanvas\tcreateCanvas"
+			],
+			[
+				"load",
+				"loadimage\tloadImage"
+			],
+			[
+				"Se",
+				"SequentialMemory\t⟠"
+			],
+			[
+				"input",
+				"inputb\tinput - button"
+			],
+			[
+				"td",
+				"td\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"html",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"createServ",
+				"http.createServer"
+			],
+			[
+				"I",
+				"indexOf"
+			],
+			[
+				"cos",
+				"console"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1136,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sculptgl.sublime-project",
+			"settings":
+			{
+				"buffer_size": 144,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Virtualenv/Python + Virtualenv.sublime-build",
+					""
+				],
+				[
+					"Packages/User/chrome.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Virtualenv/Python + Virtualenv.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"color s",
+				"UI: Select Color Scheme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"color sche",
+				"UI: Select Color Scheme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"package dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"ter",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"flow",
+				"JavaScript Enhancements Flow: Next Error"
+			],
+			[
+				"instal l",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Enable Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"brea",
+				"Python Breakpoints: Toggle"
+			],
+			[
+				"virt",
+				"Virtualenv: Activate"
+			],
+			[
+				"python",
+				"Python Breakpoints: Toggle"
+			],
+			[
+				"term",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"virtual",
+				"Virtualenv: Activate"
+			],
+			[
+				"virut",
+				"Virtualenv: Activate"
+			],
+			[
+				"termin",
+				"Terminal: Open"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+			"22 +3",
+			"serve -p 8080"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/dev_repo/sculptgl"
+	],
+	"file_history":
+	[
+		"/E/dev_repo/sculptgl/package.json",
+		"/C/Users/Jaeyoon/AppData/Roaming/Sublime Text 3/Packages/JavaScript Enhancements/README.md",
+		"/E/Downloads/webgl_nearestneighbour.html",
+		"/E/dev/dentalpr1/lib/three.js",
+		"/E/onedrive/generative/p5_drill/particle.js",
+		"/E/onedrive/generative/p5_drill/index.html",
+		"/E/onedrive/generative/p5_drill/lib/toxiclibs.js",
+		"/E/onedrive/generative/p5_drill/test_gl_6.js",
+		"/E/onedrive/generative/p5_drill/cube_oscill.js",
+		"/E/onedrive/generative/p5_drill/test_gl_custom.js",
+		"/C/Users/Jaeyoon/AppData/Roaming/Sublime Text 3/Packages/User/.jsbeautifyrc",
+		"/E/onedrive/generative/p5_drill/p5.js",
+		"/E/onedrive/generative/p5_drill/dla_3d.js",
+		"/C/Users/Jaeyoon/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Jaeyoon/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/E/onedrive/generative/p5_drill/test_gl_model.js",
+		"/E/onedrive/generative/p5_drill/cast_clip.obj",
+		"/C/Users/Jaeyoon/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/E/onedrive/generative/p5_drill/test_gl.js",
+		"/E/onedrive/generative/p5_drill/run_gl_texture.js",
+		"/C/Users/Jaeyoon/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Jaeyoon/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/E/onedrive/Utils/sublime_setting/sublime_text_context.reg",
+		"/C/Users/Jaeyoon/AppData/Roaming/Sublime Text 3/Packages/User/firefox.sublime-build",
+		"/C/Users/Jaeyoon/AppData/Roaming/Sublime Text 3/Packages/User/chrome.sublime-build",
+		"/E/onedrive/generative/p5_drill/kittens/kitten.jpg",
+		"/E/onedrive/generative/noc-examples-p5.js/chp05_libraries/toxiclibs/NOC_5_10_SimpleSpring/libraries/p5.js",
+		"/E/onedrive/generative/p5_drill/lib/box2d-html5.js",
+		"/E/onedrive/generative/p5_drill/index2.html",
+		"/E/onedrive/generative/p5_drill/jsconfig.json",
+		"/E/onedrive/generative/p5_drill/boid.js",
+		"/E/onedrive/generative/p5_drill/sketch.js",
+		"/E/onedrive/generative/p5_drill/flock.js",
+		"/E/onedrive/generative/p5_drill/empty-example/index.html",
+		"/E/onedrive/generative/p5_drill/p5gl_test.js",
+		"/C/Users/Jaeyoon/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/E/onedrive/generative/toxiclibs/src.volume/toxi/volume/MeshLatticeBuilder.java",
+		"/E/onedrive/generative/toxiclibs/src.volume/toxi/volume/ArrayIsoSurface.java",
+		"/E/onedrive/generative/toxiclibs/src.volume/toxi/volume/VolumetricSpaceArray.java",
+		"/E/onedrive/generative/toxiclibs/src.core/toxi/geom/mesh/WETriangleMesh.java",
+		"/E/onedrive/generative/toxiclibs/src.core/toxi/geom/mesh/LaplacianSmooth.java",
+		"/E/onedrive/generative/toxiclibs/examples/volume/ImplicitFunction/Volume.pde",
+		"/E/onedrive/generative/toxiclibsjs/lib/toxi/geom/mesh.js",
+		"/E/onedrive/generative/toxiclibsjs/lib/toxi/geom/mesh/subdiv/NormalDisplacementSubdivision.js",
+		"/E/onedrive/generative/toxiclibsjs/build/toxiclibs.js",
+		"/E/onedrive/generative/toxiclibsjs/lib/toxi/geom/vectors.js",
+		"/E/onedrive/generative/p5_simul/lib/p5.js",
+		"/E/onedrive/generative/p5_simul/index.html",
+		"/E/onedrive/generative/p5_simul/simul_force.js",
+		"/E/onedrive/generative/p5_simul/simul_particles.js",
+		"/E/GoogleDrive/dev_ai/dq1/deepq1.py",
+		"/C/Users/Jaeyoon/KiteOnboarding.py",
+		"/E/SandBox/pytest/hello.py",
+		"/C/Users/Jaeyoon/AppData/Roaming/Sublime Text 3/Packages/User/Virtualenv.sublime-settings",
+		"/C/Users/Jaeyoon/AppData/Roaming/Sublime Text 3/Packages/Virtualenv/Virtualenv.sublime-settings",
+		"/E/onedrive/dev_web/js_test/example.html",
+		"/E/onedrive/dev_web/js_test/test_timeout.js",
+		"/E/onedrive/dev_web/js_test/export_test.js",
+		"/E/onedrive/dev_web/js_test/test_100.js"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 166.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								332,
+								332
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (NPM).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sculptgl.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								78,
+								78
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 65.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 126.0
+	},
+	"output.Terminus":
+	{
+		"height": 191.0
+	},
+	"output.Terminus 2":
+	{
+		"height": 144.0
+	},
+	"output.exec":
+	{
+		"height": 189.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.help":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "Packages/User/chrome.sublime-build",
+	"project": "sculptgl.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"iso",
+				"src.volume\\toxi\\volume\\IsoSurface.java"
+			],
+			[
+				"mesh",
+				"lib\\toxi\\geom\\mesh.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

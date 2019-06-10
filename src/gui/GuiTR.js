@@ -1,3 +1,4 @@
+// @flow
 import getOptionsURL from '../misc/getOptionsURL';
 import english from './tr/english';
 import chinese from './tr/chinese';
@@ -33,6 +34,7 @@ GuiTR.languages = {
 
 GuiTR.select = 'english';
 var language = window.navigator.language || window.navigator.userLanguage;
+
 if (language) language = language.substr(0, 2);
 if (language === 'ja') GuiTR.select = '日本語';
 else if (language === 'zh') GuiTR.select = '中文';
@@ -71,5 +73,8 @@ switch (getOptionsURL().language) {
     GuiTR.select = 'deutsch';
     break;
 }
+
+// Always English 2019-6-7 by Jaeyoon
+GuiTR.select = 'english';
 
 export default GuiTR;

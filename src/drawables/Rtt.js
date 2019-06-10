@@ -1,3 +1,5 @@
+// @flow
+
 import Buffer from '../render/Buffer';
 import Shader from '../render/ShaderLib';
 import WebGLCaps from '../render/WebGLCaps';
